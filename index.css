@@ -1,7 +1,14 @@
-h2 {
+.header {
   color: rgb(255,255,255);
   background-color: rgb(0,0,0);
   margins: 0;
   font-style: fantasy;
   alignment: left;
 }
+
+.first-list {
+  background-color: red;
+  color: black;
+  padding: 20px;
+  text-align: left;
+  img-align: right;
