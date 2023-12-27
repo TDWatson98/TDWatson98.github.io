@@ -11,4 +11,10 @@
   color: black;
   padding: 20px;
   text-align: left;
-  img-align: right;
+  img {
+    float: right;
+    margin-left: 15px;
+    padding: 20px
+  }
+}
+    
