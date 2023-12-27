@@ -11,10 +11,8 @@
   color: black;
   padding: 20px;
   text-align: left;
-  img {
-    float: right;
-    margin-left: 15px;
-    padding: 20px
-  }
 }
-    
+img {
+  float: right;
+  margin-left: 15px;
+}
