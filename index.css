@@ -11,8 +11,11 @@
   color: black;
   padding: 20px;
   text-align: left;
-img {
-  float: right;
-  margin-left: 15px;
-  }
 }
+
+.image-one {
+  float: right;
+  margin-left: 10px;
+}
+
+
