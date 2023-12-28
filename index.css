@@ -7,10 +7,12 @@
 }
 
 .first-list {
+  display: flex;
   background-color: red;
   color: black;
   padding: 20px;
   text-align: left;
+  align-items: center
 }
 
 .image-one {
