@@ -31,7 +31,7 @@
 }
 
 #dragon-search {
-  width: 200px;
+  width: 50%;
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
@@ -39,6 +39,7 @@
 }
 
 #search-button {
+  width: 50%;
   background-color: #4CAF50;
   color: white;
   padding: 10px 15px;
