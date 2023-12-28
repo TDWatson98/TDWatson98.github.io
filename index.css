@@ -12,14 +12,14 @@
   color: black;
   padding: 20px;
   text-align: left;
-  align-items: center;
+  align-items: right;
   alignment: left
 }
 
 .image-one {
   float: right;
   margin-left: 25px;
-  margin-right: 25px;
+  margin-right: 5px;
   alignment: right
 }
 
