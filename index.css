@@ -48,5 +48,9 @@
   cursor: pointer;
 }
 
-.img2 {
-  
+.img1 {
+  float: right;
+  margin-left: 25px;
+  margin-right: 5px;
+  alignment: right
+}
