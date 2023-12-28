@@ -12,12 +12,14 @@
   color: black;
   padding: 20px;
   text-align: left;
-  align-items: center
+  align-items: center;
+  alignment: left
 }
 
 .image-one {
   float: right;
-  margin-left: 10px
+  margin-left: 10px;
+  alignment: right
 }
 
 .hd2cont {
