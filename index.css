@@ -11,14 +11,19 @@
   background-color: red;
   color: black;
   padding: 20px;
-  text-align: left;
-  justify-content: flex-end;
   align-items: center;
+  justify-content: space-between;
+}
+
+.first-list ul li {
+  text-align: left;
 }
 
 .img2 {
-  float: right;
-  margin-left: auto;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
 }
 
 
