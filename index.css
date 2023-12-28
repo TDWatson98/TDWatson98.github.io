@@ -8,6 +8,7 @@
 
 .first-list {
   display: flex;
+  justify-content: space-between;
   background-color: red;
   color: black;
   padding: 20px;
